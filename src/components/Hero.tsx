@@ -40,7 +40,7 @@ export default function Hero() {
             Transformo ideias em soluções digitais e eficientes.
           </motion.p>
 
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.8, duration: 0.8 }}
@@ -58,7 +58,7 @@ export default function Hero() {
             >
               Contato
             </a>
-          </motion.div>
+          </motion.div> */}
 
           <motion.div
             initial={{ opacity: 0 }}
